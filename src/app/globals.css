@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.imageContainer>* {
+    flex: 1 1 auto;
+}
